@@ -31,7 +31,7 @@ The results for all six machine learning algorithms are listed belows:
  - Recall: 0.45
  
  ![ClusterCentroid_BAS](https://github.com/abhi82git/Credit_Risk_Analysis/blob/738ab79ac442cd954cad1e05327d3b26ec80b09a/Images/ClusterCentroid_BAS.png)
- ![ClusterCentroid_CR](https://github.com/abhi82git/Credit_Risk_Analysis/blob/738ab79ac442cd954cad1e05327d3b26ec80b09a/Images/ClusterCentroid_CR.png)
+ ![ClusterCentroid_CR](https://github.com/abhi82git/Credit_Risk_Analysis/blob/738ab79ac442cd954cad1e05327d3b26ec80b09a/Images/ClusterCentrooid_CR.png)
 
  
  ### SMOTEENN Combination Sampling 
